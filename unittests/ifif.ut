@@ -1,0 +1,8 @@
+<%
+if if true then
+    test = "true"
+else
+    test = "false"
+end if
+%>
+Line 2, column 4, token 'if': not valid for create because parent 'if' not started

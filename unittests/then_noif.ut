@@ -1,0 +1,8 @@
+<%
+then
+    test = "true"
+else
+    test = "false"
+end if
+%>
+Line 2, column 1, token 'then': not valid for start because no parent found

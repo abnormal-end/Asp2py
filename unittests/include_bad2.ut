@@ -1,0 +1,4 @@
+<!-- #include file ="Fp_inc.asp" ->
+<%
+%>
+Line 1, column 37: Invalid command closing:  #include file ="Fp_inc.asp" ->

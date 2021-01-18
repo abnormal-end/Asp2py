@@ -1,0 +1,8 @@
+<%
+if true then then
+    test = "true"
+else
+    test = "false"
+end if
+%>
+Line 2, column 14, token 'then': not valid for start because parent 'if' is already started

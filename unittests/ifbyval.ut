@@ -1,0 +1,6 @@
+<%
+if true byval then
+    test = "true"
+end if
+%>
+Line 2, column 9, token 'byval': wrong position because parent 'if' not started

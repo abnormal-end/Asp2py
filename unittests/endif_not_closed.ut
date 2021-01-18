@@ -1,0 +1,8 @@
+<%
+if true then
+    test = "true"
+    if true then
+        test = "false"
+end if
+%>
+Line 2, column 1, token 'if': close missing

@@ -1,0 +1,6 @@
+<%
+do while true then
+    var = true
+loop
+%>
+Line 2, column 15, token 'then': not valid for start because parent 'do while' doesn't allow it

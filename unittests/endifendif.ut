@@ -1,0 +1,7 @@
+<%
+if true then
+    test = "true"
+end if
+end if
+%>
+Line 5, column 1, token 'end if': not valid for close because no parent found

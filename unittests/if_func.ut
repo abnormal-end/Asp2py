@@ -1,0 +1,8 @@
+<%
+if true then
+    function some_function()
+        test = "true"
+    end function    
+end if
+%>
+Line 3, column 5, token 'function': not valid for create because parent 'if' doesn't allow it

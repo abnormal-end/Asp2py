@@ -1,0 +1,4 @@
+<%
+test = "true
+%>
+Line 2, column 14: Missing string closing: true

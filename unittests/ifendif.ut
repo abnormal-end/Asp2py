@@ -1,0 +1,4 @@
+<%
+if true end if
+%>
+Line 2, column 9, token 'end if': not valid for close because parent 'if' is not started
